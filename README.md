@@ -1,2 +1,1 @@
-# alura
-Arquivos de todos os cursos feitos na alura.com.br
+# Aqui estão todos os projetos dos cursos concluídos no site Alura
